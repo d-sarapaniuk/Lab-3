@@ -70,7 +70,7 @@ namespace PL
             if (Service.GetEntities().Count == 0)
             {
                 Console.WriteLine("There are no people in database to remove!");
-                return;
+                returnESC();
             }
             string[] people = new string[Service.GetEntities().Count];
             int i = 0;

@@ -1,0 +1,1 @@
+[{"$type":"Student","Course":2,"Student_card":"AB12345678","Dormitory":true,"Place_of_residence":"11.810","First_Name":"Anya","Last_Name":"Kuz","Gender":"female"},{"$type":"Seller","First_Name":"Michael","Last_Name":"Scott","Gender":"male"},{"$type":"Gardener","First_Name":"Jane","Last_Name":"Doe","Gender":"female"}]
